@@ -1,0 +1,7 @@
+.todoDone {
+    text-decoration: line-through;
+}
+
+td.space .btn {
+    margin: 0px 5px;
+}
